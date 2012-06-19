@@ -5,8 +5,9 @@ for the generel CRUD tasks that you use again, and again and again...
  
  Written solely for the purpose of use for my PHP assignments in school.
 
- Usage
  -----
+
+ ## Usage
  Should be quite self-explanatory.
  Only requirements is of five defined constants which are:
   * MYSQL_HOST
