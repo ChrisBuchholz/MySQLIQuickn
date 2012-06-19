@@ -7,7 +7,7 @@
  * Author: chrisbuchholz
  * URL: https://github.com/ChrisBuchholz/MySQLIQuickn
  * Description:
- *  small library that makes using MySQLI even quicker to get done
+ *  Small library that makes using MySQLI even quicker to get done
  *  for the generel CRUD tasks that you use again, and again and again...
  *
  *  Written solely for the purpose of use for my PHP assignments in school.
