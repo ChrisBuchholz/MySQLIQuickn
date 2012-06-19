@@ -22,7 +22,7 @@
  *      MYSQL_CHARSET     
  **/ 
 
-class MySQL {
+class MySQLIQuickn {
 
     private $result = NULL;
     private $link = NULL;
