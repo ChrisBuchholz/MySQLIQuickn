@@ -19,7 +19,9 @@
  *      MYSQL_USER
  *      MYSQL_PASSWORD
  *      MYSQL_DATABASE
- *      MYSQL_CHARSET     
+ *      MYSQL_CHARSET   
+ * 
+ * hej der dette er en test  
  **/ 
 
 class MySQLIQuickn {
